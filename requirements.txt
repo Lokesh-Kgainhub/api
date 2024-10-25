@@ -1,0 +1,7 @@
+requests
+pandas
+fastapi
+pydantic
+sqlalchemy
+numpy
+openpyxl 
