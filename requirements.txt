@@ -1,7 +1,9 @@
-requests
-pandas
 fastapi
 pydantic
 sqlalchemy
+requests
+pandas
+openpyxl
 numpy
-openpyxl 
+psycopg2-binary
+uvicorn
